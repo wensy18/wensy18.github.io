@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Siyuan WEN",
+    "email": "swen211@connect.hkust-gz.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://wensy18.github.io",
+    "summary": "PG Student in DSA, HKUST(GZ)",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Conton",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
