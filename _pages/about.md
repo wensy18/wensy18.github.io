@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student from Data Science and Analytics Thrust, HKUST(GZ). My research interest includes federated learning, machine unlearning and distributed ML.
+I am a first year PhD student from Data Science and Analytics Thrust, HKUST(GZ). I received my bachelor's degree from the Department of Computer Science and Technology at Tsinghua University. My research interest includes federated learning, machine unlearning and forward-forward learning
 
-I am supervised by Prof. Ding Ningning and co-supervised by Prof. Yang Yang.
+I am supervised by Prof. Ding Ningning and co-supervised by Prof. Chu Xiaowen.
